@@ -334,6 +334,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     <tr>
     <tr>
         <td>
+            <a href="https://support.kaspersky.com/datafeeds" target="_blank">Kaspersky Threat Data Feeds</a>
+        </td>
+        <td>
+Continuously updated and inform your business or clients about risks and implications associated with cyber threats. The real-time data helps you to mitigate threats more effectively and defend against attacks even before they are launched. Demo Data Feeds contain truncated sets of IoCs (up to 1%) compared to the commercial ones
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://majestic.com/reports/majestic-million" target="_blank">Majestic Million</a>
         </td>
         <td>
@@ -418,7 +426,7 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
-            <a href="http://www.nothink.org/honeypots.php">NoThink!</a>
+            <a href="http://www.nothink.org">NoThink!</a>
         </td>
         <td>SNMP, SSH, Telnet Blacklisted IPs from Matteo Cantoni's Honeypots</td>
     </tr>
@@ -515,14 +523,6 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
         <td>
             Strongarm is a DNS blackhole that takes action on indicators of compromise by blocking malware command and control. Strongarm aggregates free indicator feeds, integrates with commercial feeds, utilizes Percipient's IOC feeds, and operates DNS resolvers and APIs for you to use to protect your network and business. Strongarm is free for personal use.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
-        </td>
-        <td>
-            Project Aspis is a closed collaboration between Talos and hosting providers to identify and deter major threat actors. Talos shares its expertise, resources, and capabilities including network and system forensics, reverse engineering, and threat intelligence at no cost to the provider.
         </td>
     </tr>
     <tr>
@@ -768,6 +768,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.eclecticiq.com/platform" target="_blank">EclecticIQ Platform</a>
+        </td>
+        <td>
+            EclecticIQ Platform is a STIX/TAXII based Threat Intelligence Platform (TIP) that empowers threat analysts to perform faster, better, and deeper investigations while disseminating intelligence at machine-speed.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.enisa.europa.eu/topics/csirt-cert-services/community-projects/incident-handling-automation" target="_blank">IntelMQ</a>
         </td>
         <td>
@@ -791,6 +799,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             It uses a distributed architecture which enables sharing of security and threat information within and between communities for a collectively stronger ecosystem.
             Offering multiple configuration options, Interflow allows users to decide what communities to form, what data feeds to consume, and with whom.
             Interflow is currently in private preview.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.kaspersky.com/enterprise-security/threat-intelligence" target="_blank">Kaspersky Threat Intelligence Portal</a>
+        </td>
+        <td>
+            A website that provides a knowledge base describing cyber threats, legitimate objects, and their relationships, brought together into a single web service. Subscribing to Kaspersky Lab’s Threat Intelligence Portal provides you with a single point of entry to four complementary services: Kaspersky Threat Data Feeds, Threat Intelligence Reporting, Kaspersky Threat Lookup and Kaspersky Research Sandbox, all available in human-readable and machine-readable formats.
         </td>
     </tr>
     <tr>
@@ -933,10 +949,10 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://soltra.com/" target="_blank">Soltra Edge</a>
+            <a href="https://www.celerium.com/automate" target="_blank">Soltra</a>
         </td>
         <td>
-            The basic version of Soltra Edge is available for free. It supports a community defense model that is highly interoperable and extensible. It is built with industry standards supported out of the box, including STIX and TAXII.
+            Soltra supports a community defense model that is highly interoperable and extensible. It is built with industry standards supported out of the box, including STIX (up to 2.1) and TAXII.
         </td>
     </tr>
     <tr>
@@ -1010,10 +1026,10 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/defpoint/threat_Note" target="_blank">Threat_Note</a>
+            <a href="https://github.com/brianwarehime/threatnote" target="_blank">threatnote.io</a>
         </td>
         <td>
-            DPS' Lightweight Investigation Notebook.
+            The new and improved threatnote.io - A tool for CTI analysts and teams to manage intel requirements, reporting, and CTI processes in an all-in-one platform
         </td>
     </tr>
     <tr>
@@ -1280,6 +1296,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             Jager is a tool for pulling useful IOCs (indicators of compromise) out of various input sources (PDFs for now, plain text really soon, webpages eventually) and putting them into an easy to manipulate JSON format.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://support.kaspersky.com/13850" target="_blank">Kaspersky CyberTrace</a>
+        </td>
+        <td>
+            Threat intelligence fusion and analysis tool that integrates threat data feeds with SIEM solutions. Users can immediately leverage threat intelligence for security monitoring and incident report (IR) activities in the workflow of their existing security operations.
         </td>
     </tr>
     <tr>
